@@ -4,14 +4,16 @@
 
 | Nome | Matrícula | GitHub |
 |------|-----------|--------|
-| Nome Completo 1 | 2026XXX | [@usuario1](https://github.com/usuario1) |
-| Nome Completo 2 | 2026XXX | [@usuario2](https://github.com/usuario2) |
+| Isabel Schifler | 2024003899 | [@isabelschifler](https://github.com/isabelschifler) |
+| Suzana | 2026XXX | [@usuario2](https://github.com/usuario2) |
+| Larissa | 2026XXX | [@usuario2](https://github.com/usuario2) |
+| Nathan | 2026XXX | [@usuario2](https://github.com/usuario2) |
 
 ---
 
 ## Descrição do projeto
 
-> Descreva em até 5 linhas o que o sistema faz, para quem é e qual problema resolve.
+O sistema é uma plataforma web voltada para a adoção de animais, onde administradores podem cadastrar e gerenciar bichinhos disponíveis. Usuários interessados podem criar uma conta, definir suas preferências e buscar animais conforme suas necessidades e localização. A plataforma facilita o contato entre adotantes e responsáveis pelos animais. O principal objetivo é tornar o processo de adoção mais acessível, organizado e eficiente. Assim, o sistema ajuda a reduzir o abandono e aumentar as chances de adoção responsável.
 
 ---
 
@@ -63,9 +65,9 @@ src/
 
 | Entrega | Descrição | Data | Status |
 |---------|-----------|------|--------|
-| E1 | Definição do projeto | — | ⏳ |
-| E2 | Modelagem | — | ⏳ |
-| E3 | Backend + BD | — | ⏳ |
+| E1 | Definição do projeto | 06/04/2026 | ✅  |
+| E2 | Modelagem | — | 🔄 |
+| E3 | Backend + BD | — | 🔄 |
 | E4 | Interface integrada | — | ⏳ |
 | E5 | Projeto final | — | ⏳ |
 
