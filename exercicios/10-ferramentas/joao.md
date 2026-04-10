@@ -160,3 +160,5 @@ A equipe pretende utilizar esse conjunto de ferramentas de forma altamente integ
 - [Site oficial do DBeaver](https://dbeaver.io/)
 - [Documentação oficial do Node.js](https://nodejs.org/pt-br/docs/)
 - [Documentação do Vercel](https://vercel.com/docs)
+
+---
